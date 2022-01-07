@@ -83,6 +83,6 @@ input of another command
 syntx - (|)
 
 command1 [arguments] | command2 [aruguments]
-ls -l | grep hulk
+ls -l | grep ayushi
 
 
